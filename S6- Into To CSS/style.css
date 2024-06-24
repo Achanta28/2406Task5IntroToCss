@@ -1,0 +1,25 @@
+#mainHeading{
+    color: deeppink;
+    text-align: center;
+    font-size: 3rem;
+    background-color: deepskyblue;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 50px;
+    
+}
+ 
+#mainHeading:hover{
+    color: black;
+    background-color: white;
+
+}
+#rohitHeading {
+    color: green;
+    font-size: 2.25rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#body {
+    background-color: brown;
+}
